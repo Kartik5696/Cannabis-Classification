@@ -1,5 +1,4 @@
-# Cannabis-Classification
-Cannabis Growth
+# Cannabis Growth | Starseed Medical Inc. (Canada)
 
 Filename: cannabisGrowthRaw2020.csv
 
